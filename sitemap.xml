@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://michaelisc.github.io/authors/claudio/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://michaelisc.github.io/publication_types/1/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/a.-paulus/</loc>
+    <loc>https://michaelisc.github.io/authors/anselm-paulus/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/c.-michaelis/</loc>
+    <loc>https://michaelisc.github.io/authors/claudio-michaelis/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,17 +33,17 @@
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/g.-martius/</loc>
+    <loc>https://michaelisc.github.io/authors/georg-martius/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/m.-rolinek/</loc>
+    <loc>https://michaelisc.github.io/authors/marin-vlastelica/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/m.-vlastelica/</loc>
+    <loc>https://michaelisc.github.io/authors/michal-rolinek/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,7 +63,7 @@
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/v.-musil/</loc>
+    <loc>https://michaelisc.github.io/authors/vit-musil/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,27 +73,27 @@
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/f.-a.-wichmann/</loc>
+    <loc>https://michaelisc.github.io/authors/felix-a.-wichmann/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/j.-h.-jacobsen/</loc>
+    <loc>https://michaelisc.github.io/authors/joern-henrik-jacobsen/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/m.-bethge/</loc>
+    <loc>https://michaelisc.github.io/authors/matthias-bethge/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/r.-geirhos/</loc>
+    <loc>https://michaelisc.github.io/authors/richard-zemel/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/r.-zemel/</loc>
+    <loc>https://michaelisc.github.io/authors/robert-geirhos/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,17 +103,12 @@
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/w.-brendel/</loc>
+    <loc>https://michaelisc.github.io/authors/wieland-brendel/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/a.-s.-ecker/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelisc.github.io/authors/b.-mitzkus/</loc>
+    <loc>https://michaelisc.github.io/authors/alexander-s.-ecker/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,12 +118,17 @@
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/e.-rusak/</loc>
+    <loc>https://michaelisc.github.io/authors/benjamin-mitzkus/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/o.-bringmann/</loc>
+    <loc>https://michaelisc.github.io/authors/evgenia-rusak/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelisc.github.io/authors/oliver-bringmann/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,12 +138,12 @@
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/p.-rubisch/</loc>
+    <loc>https://michaelisc.github.io/authors/patricia-rubisch/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://michaelisc.github.io/authors/i.-ustyuzhaninov/</loc>
+    <loc>https://michaelisc.github.io/authors/ivan-ustyuzhaninov/</loc>
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -179,10 +184,6 @@
   
   <url>
     <loc>https://michaelisc.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://michaelisc.github.io/authors/claudio/</loc>
   </url>
   
   <url>
